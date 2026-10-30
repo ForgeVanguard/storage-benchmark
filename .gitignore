@@ -1,0 +1,9 @@
+# Logs and reports
+*.log
+*.csv
+reports/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
